@@ -1,8 +1,15 @@
-
-
-{
-	"ip":"sinardunia_smp.aternos.me",
-	"port": "21728",
-	"name": "BOT",
-	"auto-night-skip":"true"
+
+
+
+
+{
+
+	"ip":"sinardunia_smp.aternos.me",
+
+	"port": "21728",
+
+	"name": "Pemakan",
+
+	"auto-night-skip":"true"
+
 }
